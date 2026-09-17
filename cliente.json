@@ -1,0 +1,9 @@
+{
+"nome": "Joao",
+"email": "joao@firma.copm",
+"telefone": ["11223344", "119222334453"],
+   "rua": "R. Joseph Climber",
+   "numero": 1227,
+   "apartamento": true,
+   "complemento": "ap 934"
+}
